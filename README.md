@@ -11,7 +11,6 @@
 - 🎓 Estudante de Engenharia de Software — UnB  
 - 💡 Interesse em desenvolvimento fullstack e Ciência de Dados  
 - 🧠 Atualmente estudando: Django, Node e I.A
-- 🎯 Objetivo: estágio na área de desenvolvimento
 
 ---
 
