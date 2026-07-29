@@ -21,24 +21,32 @@
 
 ### 🛠️ Tech Stack
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
 
 **QA & Automação**
 
-<img src="https://skillicons.dev/icons?i=python,django,git" /><br/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,django,git" /><br/><br/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+
+<br/><br/>
 
 </td>
 <td align="center" width="50%">
 
 **IA & Dados**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" /><br/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" /><br/><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br/><br/>
 
 </td>
 </tr>
@@ -48,35 +56,92 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Acciolyy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acciolyy&layout=compact&theme=tokyonight&hide_border=true" height="165"/></td>
+<td align="center" width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Acciolyy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/></td>
+<td align="center" width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Acciolyy&layout=compact&theme=tokyonight&hide_border=true" height="165"/></td>
 </tr>
 </table>
 
 ---
 
 ### 🚧 Currently focusing on
-- 🤖 Construindo agentes de IA com function calling (Gemini/Claude)
-- 🧪 Automação de testes E2E (Playwright, pytest)
-- 📈 Portfólio de Machine Learning (PyTorch, scikit-learn)
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="60">🤖</td>
+<td>Construindo agentes de IA com function calling (Gemini/Claude)</td>
+</tr>
+<tr>
+<td align="center">🧪</td>
+<td>Automação de testes E2E (Playwright, pytest)</td>
+</tr>
+<tr>
+<td align="center">📈</td>
+<td>Portfólio de Machine Learning (PyTorch, scikit-learn)</td>
+</tr>
+</table>
 
 ---
 
 ### 🚀 Projetos em destaque
 
-- **[agente-triagem-vagas](https://github.com/Acciolyy/agente-triagem-vagas)** — Agente de IA para triagem automática de vagas com function calling.
-- **[portfolio-ia](https://github.com/Acciolyy/portfolio-ia)** — Portfólio de projetos de Inteligência Artificial e Machine Learning.
-- **[Dashboard-Salarios](https://github.com/Acciolyy/Dashboard-Salarios)** — Dashboard de análise e visualização de dados salariais.
-- **[Cell-Detector](https://github.com/Acciolyy/Cell-Detector)** — Detecção de células em imagens com visão computacional (OpenCV).
-- **[qa-automation-portfolio](https://github.com/Acciolyy/qa-automation-portfolio)** — Portfólio de automação de testes com Playwright e pytest.
+<table align="center" width="100%">
+<tr>
+<td>
+
+**[agente-triagem-vagas](https://github.com/Acciolyy/agente-triagem-vagas)**
+<br/>
+<sub>Agente de IA para triagem automática de vagas com function calling.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[portfolio-ia](https://github.com/Acciolyy/portfolio-ia)**
+<br/>
+<sub>Portfólio de projetos de Inteligência Artificial e Machine Learning.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Dashboard-Salarios](https://github.com/Acciolyy/Dashboard-Salarios)**
+<br/>
+<sub>Dashboard de análise e visualização de dados salariais.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Cell-Detector](https://github.com/Acciolyy/Cell-Detector)**
+<br/>
+<sub>Detecção de células em imagens com visão computacional (OpenCV).</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[qa-automation-portfolio](https://github.com/Acciolyy/qa-automation-portfolio)**
+<br/>
+<sub>Portfólio de automação de testes com Playwright e pytest.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🌐 Where to find me
-- 💼 [LinkedIn](https://www.linkedin.com/in/thiago-viriato-accioly)
-- 🌎 [Portfólio](https://acciolyy.github.io/Portfolio-Thiago)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-viriato-accioly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://acciolyy.github.io/Portfolio-Thiago"><img src="https://img.shields.io/badge/Portf%C3%B3lio-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
 ---
 
