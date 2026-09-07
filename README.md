@@ -31,8 +31,15 @@
 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/WebTest-0078D4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Model%20Bakery-8E3B2F?style=for-the-badge&logoColor=white" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postman,git" />
+<img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 <br/><br/>
 
@@ -70,7 +77,7 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Acciolyy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/></td>
-<td align="center" width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Acciolyy&layout=compact&theme=tokyonight&hide_border=true" height="165"/></td>
+<td align="center" width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Acciolyy&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Portfolio-Thiago" height="165"/></td>
 </tr>
 </table>
 
@@ -189,3 +196,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Acciolyy&color=ec4899&style=flat" alt="Profile views" />
 </p>
+
+---
+
+> Antes de acreditar no número, vale perguntar o que exatamente ele está medindo.
