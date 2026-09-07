@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thiago Accioly 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=560&lines=Desenvolvedor+Fullstack+Python;Django+%2B+React%2FNext.js;Automa%C3%A7%C3%A3o+de+Testes;IA+%26+Dados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8E3B2F&center=true&vCenter=true&width=560&lines=QA+%26+Automa%C3%A7%C3%A3o+de+Testes;Playwright+%C2%B7+pytest+%C2%B7+Python;Causa+raiz%2C+n%C3%A3o+s%C3%B3+sintoma" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  🎓 Engenharia de Software (UnB, 8º semestre) &nbsp;•&nbsp; 💼 Estagiário Fullstack no Senado Federal<br/>
-  🔍 <strong>Desenvolvedor Fullstack Python</strong> (Django, React, Next.js), com <strong>testes automatizados</strong> como diferencial no processo de desenvolvimento. Aplico Python também em projetos de <strong>IA e Ciência de Dados</strong>.
+  🎓 Engenharia de Software (UnB, previsão 2027) &nbsp;•&nbsp; 💼 Estagiário no Senado Federal (SECOM/COTI)<br/>
+  🔍 <strong>Analista de QA / Automação de Testes</strong> focado em Python. Autor de 297 testes automatizados (Playwright + pytest) na suíte do Senado, com ~15s de execução. Utilizo a base de desenvolvimento Python/Django para investigar a causa raiz de problemas, não apenas os sintomas.
 </p>
 
 ---
@@ -25,20 +25,22 @@
 <tr>
 <td align="center" width="50%">
 
-**Fullstack Python**
+**Automação & QA**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,react,nextjs,html,css,js,ts" /><br/><br/>
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Django%20Cotton-092E20?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
-<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postman,git" />
 
 <br/><br/>
 
-<sub>Testes: Playwright · pytest · WebTest · CI/CD</sub>
+**Desenvolvimento (Apoio)**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,django,ts,html,css,js" />
 
 <br/><br/>
 
@@ -79,21 +81,44 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="60">💼</td>
-<td>Desenvolvimento fullstack em produção no Senado Federal (Django, HTMX, Alpine.js)</td>
+<td>Estruturação da esteira de testes em produção no Senado Federal (Django, Playwright, pytest)</td>
 </tr>
 <tr>
 <td align="center">🧪</td>
-<td>Estudo ativo de Django REST Framework e Next.js</td>
+<td>Estudo ativo de testes de API (Postman) e BDD com pytest-bdd</td>
 </tr>
 <tr>
 <td align="center">🧠</td>
-<td>Agentes de IA e automação de testes E2E como projetos paralelos</td>
+<td>Agentes de IA e automação como projetos paralelos</td>
 </tr>
 </table>
 
 ---
 
 ### 🚀 Projetos em destaque
+
+#### Automação & QA
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+**[catalog-under-test](https://github.com/Acciolyy/catalog-under-test)**
+<br/>
+<sub>Aplicação Django com bugs propositais para prática de automação de testes (Playwright, pytest).</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[excalidraw](https://github.com/Acciolyy/excalidraw)**
+<br/>
+<sub>Duas contribuições em revisão no Excalidraw (+130 mil estrelas), uma delas aplicando MC/DC (Modified Condition/Decision Coverage) em testes com Vitest.</sub>
+
+</td>
+</tr>
+</table>
 
 #### Fullstack
 
@@ -104,15 +129,6 @@
 **[imoveldf-vitrine](https://github.com/Acciolyy/imoveldf-vitrine)**
 <br/>
 <sub>Case study do ImóvelDF, portal de imóveis full-stack em Django com 364 testes automatizados. Código-fonte privado; este repo documenta arquitetura e decisões técnicas.</sub>
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[catalog-under-test](https://github.com/Acciolyy/catalog-under-test)**
-<br/>
-<sub>Aplicação Django com bugs propositais para prática de automação de testes com Playwright e pytest.</sub>
 
 </td>
 </tr>
@@ -165,7 +181,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-viriato-accioly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://acciolyy.github.io/Portfolio-Thiago"><img src="https://img.shields.io/badge/Portf%C3%B3lio-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://portfolio-qa-one.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
