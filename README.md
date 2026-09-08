@@ -4,13 +4,61 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8E3B2F&center=true&vCenter=true&width=560&lines=QA+%26+Automa%C3%A7%C3%A3o+de+Testes;Playwright+%C2%B7+pytest+%C2%B7+Python;Causa+raiz%2C+n%C3%A3o+s%C3%B3+sintoma" alt="Typing SVG" />
 </p>
 
+### 🧊 Minhas contribuições, em 3D
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acciolyy/Acciolyy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acciolyy/Acciolyy/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Acciolyy/Acciolyy/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution Graph" />
 </p>
+
+<table align="center" width="100%">
+<tr>
+<td align="left" width="50%">
+
+```text
+{i"::::"`^",?>^,,"^```^^_i^""^^^`;]!"l:I<^^:>^l_`,
+{>"::::"`^":[>^""""^``^^-<`^^^^^`;}<^<!l~^^:~^i-`,
+}>,::;:"`^",?l^"""^`''`:>l";:^^^^,_!^:^I_^^,>^i?`,
+-!:;;;:^^^"^<:""^```!lI:`:ll:I"`^`^""^`I-"^"!^I~`,
+}<,;:::^`^^:-;^"^``'i;!l.,>I,ll^`^""^^`l]"^"l"l!`,
+}~":,,:"'`^I[I`^``'.+jvuf/ft(]>^,;-I'``l[,^"<"!<`,
+[<",,,:"'`^I]I`^```-UQZwwmwwZQU1";-;`,:l[,^,~"i>`,
+[<",,,:"'`^I?;`^`''tvvcXQmQXczvu:,_,^:Il}:`,+^~<,:
+[~",,,:"'`^l-:`^`^[tUXcYzJXJXXJr1]I^^,"!}I`,<">>;;
+{+",,","'`^>-,`^`:XnJOZLzCzQmZCxJr;^,l:!};`:i^-_`,
+}<",,","'`^~-"^^^`-tJLXvcJzvXQQf1i!"">Ii}:`:l"?-',
+}<","","'`^<-,``'`.,nCJvJOLzCQcI.:I^,~I>{;^;l"?+',
+}>","""^''`>_^''''' 1fj00OZmvt] ^:;^">:~{I^:;"?~',
+[i^""^^`..'><'...'.^vz1\uvvr|U[ `,:^^l^~{l^l;,[<',
+]l^^^^`...'ii^","^luU00XzXcY0Ojl^"^'^I^>[i`!:,]>',
+-I`````^^,:I::l>{L)j0wmOOZOZZOL1,,:`"i,i-l'!:"-i',
+-:``'^IlIl:l{uCZqhkf)cQOOZZOCn1UU};IlI"l~!'!,"?l."
+-:'',!li!I)Zh**kwkahZvfttfffjvZa**X_:I:,;;`I^^+;."
+_,.,i>!!ljwhZ0whkkkd*M*kddbhoohkakokcillII::``<,'"
+~^^!>>!lIvmqbQOOwkhhhaha*o*ookkoohbh#0>i!ll:^`;"^^
+l^;i>>>!l_pohOZqwdhhhahkbkaoabhkkkaohw~!i!l;l><~>,
+;II!i><iI>bohoohkahkhhhkmkhhkbkbohbk#vIii!!:_f1-!"
+l!l!i<<il!L*#ohbkoakkkhakaokbhhhha*Mp<!iii!I>vt_I^
+lii>>i!ii;:]XhobahkhbdaoaookhohhadZJ};>iii!I,jx-;"
+Ijccnt[>lII,;?JhbbbkOZkkhahaookz|_>:`!>>i!lI,[x-;^
+```
+
+</td>
+<td align="left" width="50%">
+
+```text
+thiago@qa
+-------------------
+OS: QA Engineer Edition
+Editor: VS Code
+Linguagens: Python (76.13%), TypeScript (14.43%), JavaScript (4.12%), CSS (4.10%), HTML (1.16%)
+Ferramentas: Playwright, pytest, Robot Framework, WebTest, Model Bakery
+Repositórios: 12
+Foco atual: Automação de testes no Senado Federal
+```
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   🎓 Engenharia de Software (UnB, previsão 2027) &nbsp;•&nbsp; 💼 Estagiário no Senado Federal (SECOM/COTI)<br/>
@@ -76,8 +124,11 @@
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Acciolyy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/></td>
-<td align="center" width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Acciolyy&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Portfolio-Thiago" height="165"/></td>
+<td align="center" width="50%"><img src="https://github-stats-extended.vercel.app/api?username=Acciolyy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/></td>
+<td align="center" width="50%"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Acciolyy&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Portfolio-Thiago" height="165"/></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><img src="https://streak-stats.demolab.com?user=Acciolyy&theme=tokyonight&hide_border=true" /></td>
 </tr>
 </table>
 
