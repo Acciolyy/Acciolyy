@@ -57,22 +57,27 @@
 
 #### Backend
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td>
+<td valign="top" width="50%">
 
 **[imoveldf-vitrine](https://github.com/Acciolyy/imoveldf-vitrine)**
 <br/>
-<sub>Portal de imóveis full-stack em Django 5.2, PostgreSQL, HTMX e Docker. Código privado; este repo é um case study de arquitetura.</sub>
+<sub>Portal de imóveis full-stack. Código privado; este repo é um case study de arquitetura.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Django%205.2-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </td>
-</tr>
-<tr>
-<td>
+<td valign="top" width="50%">
 
 **[excalidraw](https://github.com/Acciolyy/excalidraw)**
 <br/>
 <sub>Contribuições open source em revisão no Excalidraw, projeto com mais de 130 mil estrelas.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Open%20source-3D444D?style=flat-square" />
 
 </td>
 </tr>
@@ -80,40 +85,48 @@
 
 #### IA & Agentes
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td>
+<td valign="top" width="50%">
 
 **[agente-triagem-vagas](https://github.com/Acciolyy/agente-triagem-vagas)**
 <br/>
-<sub>Agente com Gemini API e function calling que tria vagas remotas por critérios em linguagem natural.</sub>
+<sub>Agente que tria vagas remotas por critérios em linguagem natural.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Function%20Calling-4B5563?style=flat-square" />
 
 </td>
-</tr>
-<tr>
-<td>
+<td valign="top" width="50%">
 
 **[Cell-Detector](https://github.com/Acciolyy/Cell-Detector)**
 <br/>
-<sub>Visão computacional em tempo real com modelo Edge Impulse; pipeline otimizado de 10 para 30 FPS.</sub>
+<sub>Visão computacional em tempo real; pipeline otimizado de 10 para 30 FPS.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Edge%20Impulse-3D444D?style=flat-square" />
 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top" width="50%">
 
 **[portfolio-ia](https://github.com/Acciolyy/portfolio-ia)**
 <br/>
 <sub>Busca, modelos probabilísticos e ML; CNN em PyTorch com 98,9% de acurácia.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/ML-F7931E?style=flat-square" />
 
 </td>
-</tr>
-<tr>
-<td>
+<td valign="top" width="50%">
 
 **[Dashboard-Salarios](https://github.com/Acciolyy/Dashboard-Salarios)**
 <br/>
-<sub>Dashboard em Streamlit sobre mais de 130 mil registros, consumindo a API da Adzuna com cache de 24h.</sub>
+<sub>Dashboard sobre mais de 130 mil registros, consumindo a API da Adzuna com cache de 24h.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Adzuna%20API-3D444D?style=flat-square" />
 
 </td>
 </tr>
@@ -183,8 +196,28 @@
 
 ### Agora
 
-- Backend Django em produção no Senado Federal.
-- IA aplicada: agentes, LLMs e avaliação de respostas.
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+<sub>EM PRODUÇÃO</sub>
+<br/>
+**Backend Django**
+<br/>
+<sub>Senado Federal (SECOM/COTI)</sub>
+
+</td>
+<td valign="top" width="50%">
+
+<sub>EM FOCO</sub>
+<br/>
+**IA aplicada**
+<br/>
+<sub>Agentes, LLMs e avaliação de respostas</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -194,7 +227,3 @@
   <a href="https://www.linkedin.com/in/thiago-viriato-accioly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio-thiago-beta.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
-
----
-
-> Antes de acreditar no número, vale perguntar o que exatamente ele está medindo.
