@@ -70,6 +70,8 @@
 <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
+<img src="assets/spacer.svg" width="1000" height="1" />
+
 </td>
 <td valign="top" width="50%">
 
@@ -78,6 +80,8 @@
 <sub>Contribuições open source em revisão no Excalidraw, projeto com mais de 130 mil estrelas.</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Open%20source-3D444D?style=flat-square" />
+
+<img src="assets/spacer.svg" width="1000" height="1" />
 
 </td>
 </tr>
@@ -96,6 +100,8 @@
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Function%20Calling-4B5563?style=flat-square" />
 
+<img src="assets/spacer.svg" width="1000" height="1" />
+
 </td>
 <td valign="top" width="50%">
 
@@ -105,6 +111,8 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Edge%20Impulse-3D444D?style=flat-square" />
+
+<img src="assets/spacer.svg" width="1000" height="1" />
 
 </td>
 </tr>
@@ -206,6 +214,8 @@
 <br/>
 <sub>Senado Federal (SECOM/COTI)</sub>
 
+<img src="assets/spacer.svg" width="1000" height="1" />
+
 </td>
 <td valign="top" width="50%">
 
@@ -214,6 +224,8 @@
 **IA aplicada**
 <br/>
 <sub>Agentes, LLMs e avaliação de respostas</sub>
+
+<img src="assets/spacer.svg" width="1000" height="1" />
 
 </td>
 </tr>
