@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="204" viewBox="0 0 760 204" role="img" aria-label="Thiago Accioly, Desenvolvedor Python Backend, Django, APIs e IA aplicada (LLMs e agentes)">
+<style>
+text{font-family:'Fira Code','DejaVu Sans Mono',Consolas,monospace;font-size:14px}
+@keyframes k0{from{width:0}to{width:148.8px}}.c0{animation:k0 1.19s steps(17,end) 0.50s both}
+@keyframes k1{from{width:0}to{width:291.6px}}.c1{animation:k1 0.63s steps(14,end) 2.14s both}
+@keyframes k2{from{width:0}to{width:207.6px}}.c2{animation:k2 1.68s steps(24,end) 3.22s both}
+@keyframes k3{from{width:0}to{width:627.6px}}.c3{animation:k3 3.33s steps(74,end) 5.35s both}
+@keyframes show{from{opacity:0}to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.cg{animation:show .01s linear 8.68s both}
+.cur{animation:blink 1s steps(1) infinite}
+@media (prefers-reduced-motion:reduce){.c0,.c1,.c2,.c3,.cg,.cur{animation:none}}
+</style>
+<rect width="760" height="204" rx="8" fill="#1a1b27"/>
+<clipPath id="p0"><rect x="28" y="30" height="24" width="148.8" class="c0"/></clipPath><text x="28" y="44" style="font-size:14px" clip-path="url(#p0)" xml:space="preserve"><tspan fill="#7aa2f7">~/thiago </tspan><tspan fill="#9ece6a">$ </tspan><tspan fill="#c0caf5">whoami</tspan></text>
+<clipPath id="p1"><rect x="28" y="58" height="44" width="291.6" class="c1"/></clipPath><text x="28" y="92" style="font-size:34px" font-weight="700" clip-path="url(#p1)" xml:space="preserve"><tspan fill="#e6edf3">Thiago Accioly</tspan></text>
+<clipPath id="p2"><rect x="28" y="126" height="24" width="207.6" class="c2"/></clipPath><text x="28" y="140" style="font-size:14px" clip-path="url(#p2)" xml:space="preserve"><tspan fill="#7aa2f7">~/thiago </tspan><tspan fill="#9ece6a">$ </tspan><tspan fill="#c0caf5">cat cargo.txt</tspan></text>
+<clipPath id="p3"><rect x="28" y="154" height="24" width="627.6" class="c3"/></clipPath><text x="28" y="168" style="font-size:14px" font-weight="600" clip-path="url(#p3)" xml:space="preserve"><tspan fill="#c0caf5">Desenvolvedor Python Backend</tspan><tspan fill="#565f89"> | </tspan><tspan fill="#bb9af7">Django, APIs e IA aplicada (LLMs e agentes)</tspan></text>
+<g class="cg"><rect class="cur" x="657.6" y="155" width="9" height="17" fill="#c0caf5"/></g>
+</svg>

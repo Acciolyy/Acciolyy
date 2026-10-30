@@ -1,6 +1,6 @@
-<h1 align="center">Thiago Accioly</h1>
-
-<p align="center"><strong>Desenvolvedor Python Backend | Django, APIs e IA aplicada (LLMs e agentes)</strong></p>
+<p align="center">
+  <img src="assets/header.svg" alt="Thiago Accioly, Desenvolvedor Python Backend | Django, APIs e IA aplicada (LLMs e agentes)" />
+</p>
 
 <p align="center">
   Estudante de Engenharia de Software na UnB (previsão 2027) e estagiário backend Django no Senado Federal (SECOM/COTI).<br/>
