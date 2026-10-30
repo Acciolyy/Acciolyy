@@ -204,32 +204,9 @@
 
 ### Agora
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="50%">
-
-<sub>EM PRODUÇÃO</sub>
-<br/>
-**Backend Django**
-<br/>
-<sub>Senado Federal (SECOM/COTI)</sub>
-
-<img src="assets/spacer.svg" width="1000" height="1" />
-
-</td>
-<td valign="top" width="50%">
-
-<sub>EM FOCO</sub>
-<br/>
-**IA aplicada**
-<br/>
-<sub>Agentes, LLMs e avaliação de respostas</sub>
-
-<img src="assets/spacer.svg" width="1000" height="1" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/now.svg" alt="Agora: Backend Django em produção no Senado Federal (SECOM/COTI); em foco, IA aplicada com agentes, LLMs e avaliação de respostas" />
+</p>
 
 ---
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="100" viewBox="0 0 830 100" role="img" aria-label="Agora: Backend Django em produção no Senado Federal (SECOM/COTI); em foco, IA aplicada com agentes, LLMs e avaliação de respostas">
+<style>
+text{font-family:system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.k{font-size:11px;letter-spacing:1.2px;fill:#8b949e}
+.v{font-size:15px;font-weight:600;fill:#e6edf3}
+.s{font-size:13px;fill:#8b949e}
+</style>
+<rect x="0.5" y=".5" width="407" height="99" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="27" cy="31" r="7" fill="#9ece6a" fill-opacity=".2"/><circle cx="27" cy="31" r="4" fill="#9ece6a"/>
+<text x="43" y="35" class="k">EM PRODUÇÃO</text>
+<text x="20" y="63" class="v">Backend Django</text>
+<text x="20" y="84" class="s">Senado Federal (SECOM/COTI)</text>
+<rect x="422.5" y=".5" width="407" height="99" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="449" cy="31" r="7" fill="#9ece6a" fill-opacity=".2"/><circle cx="449" cy="31" r="4" fill="#9ece6a"/>
+<text x="465" y="35" class="k">EM FOCO</text>
+<text x="442" y="63" class="v">IA aplicada</text>
+<text x="442" y="84" class="s">Agentes, LLMs e avaliação de respostas</text>
+</svg>
