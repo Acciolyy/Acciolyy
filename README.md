@@ -15,7 +15,9 @@
   <img src="profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution Graph" />
 </p>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="middle" width="40%">
 
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⣶⣶⣤⣄⣀⣀⣀⣀⣠⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -40,7 +42,14 @@
 ⠀⣴⣶⡀⠀⢡⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣼⠀⠀⠀⠀⠀
 ```
 
-</div>
+</td>
+<td align="center" valign="middle" width="60%">
+
+<img src="assets/terminal.svg" alt="Terminal Python de apresentação" />
+
+</td>
+</tr>
+</table>
 
 ---
 
